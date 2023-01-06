@@ -16,3 +16,5 @@
 
     - [openssh-key management](https://learn.microsoft.com/en-us/windows-server/administration/manage-windows-server)
 
+
+`sudo atp update`
